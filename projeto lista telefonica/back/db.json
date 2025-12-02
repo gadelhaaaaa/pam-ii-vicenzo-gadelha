@@ -1,0 +1,14 @@
+{
+    "contatos": [
+        {
+            "id": "1",
+            "nome": "Renan Dantas",
+            "telefone": "(11) 99999-0000"
+        },
+        {
+            "id": "2",
+            "nome": "Maria Silva",
+            "telefone": "(11) 98888-1111"
+        }
+    ]
+}
